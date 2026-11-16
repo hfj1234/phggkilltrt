@@ -1,7 +1,13 @@
-[
- { 
-  privacy: "https://dragon-link.jry0t.click/", 
-  adkey: "gqqorunhyf40", 
-  initiated_checkout: "p1oi7h" 
- }
-]
+{
+  "data": {
+     "privacy": "https://dragon-link.jry0t.click",
+     "adkey": "gqqorunhyf40",
+     "initiated_checkout": "p1oi7h",
+      "perkk": [
+      "A",
+      "B",
+      "CN",
+      "US"
+    ]
+  }
+}
